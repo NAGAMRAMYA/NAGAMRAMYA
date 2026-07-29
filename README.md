@@ -4,7 +4,7 @@
 
 # Hi there, I'm Nagam Ramya 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Btech  student=Future Software+Engineering+Intern;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Learner;Building+Scalable+Web+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Btechstudent+Future Software+Engineering+Intern;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Learner;Building+Scalable+Web+Applications"/>
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/NAGAMRAMYA)
