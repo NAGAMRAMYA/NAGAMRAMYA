@@ -1,21 +1,229 @@
-👋 Hi, I'm Ramya Nagam<br><br>🎓 B.Tech Artificial Intelligence & Data Science Student<br>💻 Passionate about Software Development, AI, Agentic AI, and Web Development<br>🚀 Continuously learning and building real-world projects to improve my skills.<br><br>🌟 About Me:<br><br>🎓 B.Tech (AI & DS) Student<br>💡 Passionate about Artificial Intelligence and Emerging Technologies<br>🌐 Learning Full Stack Web Development<br>🤖 Exploring Agentic AI, Machine Learning, and Data Analytics<br>💻 Love solving coding problems and building innovative applications
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:9333EA&text=Santosh%20Reddi&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Software%20Engineer&descAlignY=60"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ramya-nagam-0616g012) 
+# Hi there, I'm Nagam Ramya 👋
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=NAGAMRAMYA&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=NAGAMRAMYA&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=NAGAMRAMYA&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineering+Intern;Full+Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Learner;Building+Scalable+Web+Applications"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NAGAMRAMYA&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=RAMYARAMYA&style=for-the-badge&color=7C3AED)
+[![Followers](https://img.shields.io/github/followers/NAGAMRAMYA?style=for-the-badge&color=7C3AED)](https://github.com/NAGAMRAMYA?tab=followers)
+[![Stars](https://img.shields.io/github/stars/NAGAMRAMYA?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7C3AED)](https://github.com/NAGAMRAMYA)
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/NAGAMRAMYA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ramya-nagam-0616g012)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](ramyasrinaidu16@gmail.com)
+[![Portfolio](?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=NAGAMRAMYA&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/NAGAMRAMYA/NAGAMRAMYA/blob/output/github-snake-dark.svg)
+# About Me
 
+I'm a passionate **Software Engineering Intern** and **Full Stack Developer** who enjoys building scalable, user-focused web applications. I love solving real-world problems through clean architecture, modern technologies, and continuous learning.
+
+Currently, I'm expanding my knowledge in **Agentic AI**, **web development**, and modern frontend development while contributing to practical software projects.
+
+### What I'm focused on
+
+- Building production-ready MERN applications
+- web development
+- agentic ai
+- Exploring Cloud & DevOps
+- Writing clean, maintainable code
+- Contributing to Open Source
+
+---
+
+## Open To
+
+- Software Engineering Internship
+- Full Stack Developer Roles
+- Freelance Web Development
+- Technical Collaborations
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,js,ts,python,html,css" />
+</p>
+
+
+## Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+## Cloud • DevOps • Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" />
+</p>
+
+</div>
+
+### Responsibilities
+
+- Developed scalable full-stack web applications using the MERN Stack.
+- Built responsive and reusable React.js components.
+- Designed and integrated secure RESTful APIs.
+- Implemented JWT authentication and email verification workflows.
+- Collaborated using Git, GitHub, pull requests, and code reviews.
+- Fixed bugs and optimized application performance.
+- Worked in an Agile development environment.
+
+### Technologies
+
+`React.js` `Node.js` `Express.js` `MongoDB` `JavaScript` `Git` `GitHub`
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NAGAMRAMYA&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# ⚡ Contribution Statistics
+
+<div align="center">
+
+| Metric | Focus |
+|---------|-------|
+| 🚀 Primary Stack | MERN Stack |
+| 💻 Languages | JavaScript, Java, Python |
+| 🌐 Frontend | React.js, Bootstrap, Tailwind CSS |
+| 🖥 Backend | Node.js, Express.js |
+| 🗄 Database | MongoDB, MySQL |
+| 🤖 AI | Prompt Engineering, Generative AI |
+| ☁ Cloud | AWS (Learning) |
+| 🔄 Version Control | Git & GitHub |
+
+</div>
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NAGAMRAMYA/NAGAMRAMYA/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+
+# 🌟 Developer Mindset
+
+> **"Build scalable software, write clean code, keep learning, and contribute to the developer community."**
+
+---
+
+
+
+# 📖 Development Philosophy
+
+> **"Write clean code. Build scalable systems. Never stop learning."**
+
+I believe great software is created by combining strong engineering principles, continuous learning, and a user-first mindset. My goal is to build products that are fast, secure, scalable, and impactful.
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Current:
+  Role: Software Engineering Intern
+  Building:
+    - Full Stack MERN Applications
+    - Authentication Systems
+    - REST APIs
+    - AI Integrated Applications
+
+Learning:
+  - Advanced React
+  - Node.js Architecture
+  - AWS Cloud
+  - Docker
+  - System Design
+  - Machine Learning
+
+Exploring:
+  - Open Source Contributions
+  - AI Engineering
+  - Microservices
+  - DevOps
+
+Open_To:
+  - Software Engineering Internships
+  - Full Stack Developer Roles
+  - Open Source Collaboration
+  - AI/ML Projects
+```
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="ramyasrinaidu16@gmail.com">
+</a>
+
+<a href="https://www.linkedin.com/in/santosh-reddi-223995229">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/santoshreddi-631">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://your-portfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💬 Quote
+
+<div align="center">
+
+### *"Great software is built one thoughtful commit at a time."*
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you enjoy my work, consider following me and checking out my repositories.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:9333EA"/>
+
+</div>
