@@ -6,16 +6,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineering+Intern;Full+Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Learner;Building+Scalable+Web+Applications"/>
 
-<br>
-[![Followers](https://img.shields.io/github/followers/NAGAMRAMYA?style=for-the-badge&color=7C3AED)](https://github.com/NAGAMRAMYA?tab=followers)
-[![Stars](https://img.shields.io/github/stars/NAGAMRAMYA?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7C3AED)](https://github.com/NAGAMRAMYA)
-
-<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/NAGAMRAMYA)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ramya-nagam-0616g012)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](ramyasrinaidu16@gmail.com)
-[![Portfolio](?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
