@@ -7,8 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineering+Intern;Full+Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Learner;Building+Scalable+Web+Applications"/>
 
 <br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=RAMYARAMYA&style=for-the-badge&color=7C3AED)
 [![Followers](https://img.shields.io/github/followers/NAGAMRAMYA?style=for-the-badge&color=7C3AED)](https://github.com/NAGAMRAMYA?tab=followers)
 [![Stars](https://img.shields.io/github/stars/NAGAMRAMYA?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7C3AED)](https://github.com/NAGAMRAMYA)
 
