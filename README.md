@@ -1,4 +1,4 @@
-👋 Hi, I'm Ramya Sri Naidu<br><br>🎓 B.Tech Artificial Intelligence & Data Science Student<br>💻 Passionate about Software Development, AI, Agentic AI, and Web Development<br>🚀 Continuously learning and building real-world projects to improve my skills.<br><br>🌟 About Me:<br><br>🎓 B.Tech (AI & DS) Student<br>💡 Passionate about Artificial Intelligence and Emerging Technologies<br>🌐 Learning Full Stack Web Development<br>🤖 Exploring Agentic AI, Machine Learning, and Data Analytics<br>💻 Love solving coding problems and building innovative applications
+👋 Hi, I'm Ramya Nagam<br><br>🎓 B.Tech Artificial Intelligence & Data Science Student<br>💻 Passionate about Software Development, AI, Agentic AI, and Web Development<br>🚀 Continuously learning and building real-world projects to improve my skills.<br><br>🌟 About Me:<br><br>🎓 B.Tech (AI & DS) Student<br>💡 Passionate about Artificial Intelligence and Emerging Technologies<br>🌐 Learning Full Stack Web Development<br>🤖 Exploring Agentic AI, Machine Learning, and Data Analytics<br>💻 Love solving coding problems and building innovative applications
 
 
 ## 🌐 Socials:
