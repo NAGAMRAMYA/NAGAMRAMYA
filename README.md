@@ -129,38 +129,6 @@ I believe great software is created by combining strong engineering principles, 
 
 ---
 
-# 🎯 Current Focus
-
-```yaml
-Current:
-  Role: Software Engineering Intern
-  Building:
-    - Full Stack MERN Applications
-    - Authentication Systems
-    - REST APIs
-    - AI Integrated Applications
-
-Learning:
-  - Advanced React
-  - Node.js Architecture
-  - AWS Cloud
-  - Docker
-  - System Design
-  - Machine Learning
-
-Exploring:
-  - Open Source Contributions
-  - AI Engineering
-  - Microservices
-  - DevOps
-
-Open_To:
-  - Software Engineering Internships
-  - Full Stack Developer Roles
-  - Open Source Collaboration
-  - AI/ML Projects
-```
-
 # 🤝 Let's Connect
 
 <div align="center">
@@ -172,7 +140,7 @@ Open_To:
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/santoshreddi-631">
+<a href="https://github.com/NAGAMRAMYA">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -184,21 +152,9 @@ Open_To:
 
 ---
 
-# 💬 Quote
-
-<div align="center">
-
-### *"Great software is built one thoughtful commit at a time."*
-
-</div>
-
----
-
-<div align="center">
-
 ### ⭐ Thanks for visiting my profile!
 
-If you enjoy my work, consider following me and checking out my repositories.
+
 
 </div>
 
