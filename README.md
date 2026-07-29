@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:9333EA&text=NAGAMRAMYA&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Agentic%20AI%20%7C%20Software%20Engineer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0🈹F46E5,50:7C3AED,100:9333EA&text=NAGAMRAMYA&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Agentic%20AI%20%7C%20Software%20Engineer&descAlignY=60"/>
 
 # Hi there, I'm Nagam Ramya 👋
 
