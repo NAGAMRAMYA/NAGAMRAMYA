@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:9333EA&text=Santosh%20Reddi&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Software%20Engineer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:9333EA&text=NAGAMRAMYA&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Software%20Engineer&descAlignY=60"/>
 
 # Hi there, I'm Nagam Ramya 👋
 
@@ -79,16 +79,6 @@ Currently, I'm expanding my knowledge in **Agentic AI**, **web development**, an
 </p>
 
 </div>
-
-### Responsibilities
-
-- Developed scalable full-stack web applications using the MERN Stack.
-- Built responsive and reusable React.js components.
-- Designed and integrated secure RESTful APIs.
-- Implemented JWT authentication and email verification workflows.
-- Collaborated using Git, GitHub, pull requests, and code reviews.
-- Fixed bugs and optimized application performance.
-- Worked in an Agile development environment.
 
 ### Technologies
 
