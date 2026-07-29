@@ -203,9 +203,8 @@ If you enjoy my work, consider following me and checking out my repositories.
 </div>
 
 ---
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:9333EA"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F472B6,50:EC4899,100:DB2777"/>
 
 </div>
