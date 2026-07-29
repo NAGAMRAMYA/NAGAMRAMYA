@@ -161,6 +161,6 @@ I believe great software is created by combining strong engineering principles, 
 ---
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=120&section=footer&color=0:EC4899,50:F472B6,100:BE185D"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&height=120&section=footer&color=0:EC4899,50:A855F7,100:7C3AED"/>
 
 </div>
