@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0🈹F46E5,50:7C3AED,100:9333EA&text=NAGAMRAMYA&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Agentic%20AI%20%7C%20Software%20Engineer&descAlignY=60"/>
-
 # Hi there, I'm Nagam Ramya 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:F472B6,50:EC4899,100:DB2777&text=NAGAMRAMYA&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Agentic%20AI%20%7C%20Software%20Engineer&descAlignY=60"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Btech+student;future+Software+Engineering+;Full+Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Learner;Building+Scalable+Web+Applications"/>
 
