@@ -88,48 +88,12 @@ Currently, I'm expanding my knowledge in **Agentic AI**, **web development**, an
 
 ---
 
-# ⚡ Contribution Statistics
-
-<div align="center">
-
-| Metric | Focus |
-|---------|-------|
-| 🚀 Primary Stack | MERN Stack |
-| 💻 Languages | JavaScript, Java, Python |
-| 🌐 Frontend | React.js, Bootstrap, Tailwind CSS |
-| 🖥 Backend | Node.js, Express.js |
-| 🗄 Database | MongoDB, MySQL |
-| 🤖 AI | Prompt Engineering, Generative AI |
-| ☁ Cloud | AWS (Learning) |
-| 🔄 Version Control | Git & GitHub |
-
-</div>
-
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/NAGAMRAMYA/NAGAMRAMYA/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
-
-# 🌟 Developer Mindset
-
-> **"Build scalable software, write clean code, keep learning, and contribute to the developer community."**
-
----
-
-
-
-# 📖 Development Philosophy
-
-> **"Write clean code. Build scalable systems. Never stop learning."**
-
-I believe great software is created by combining strong engineering principles, continuous learning, and a user-first mindset. My goal is to build products that are fast, secure, scalable, and impactful.
-
----
-
-# 🤝 Let's Connect
+# 🤝Let's Connect
 
 <div align="center">
 
